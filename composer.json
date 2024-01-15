@@ -1,5 +1,5 @@
 {
-  "name": "b-khouy/block_list_override",
+  "name": "voidagency/block_list_override",
   "description": "Remove unnecessary blocks from the block list for better system performance.",
   "type": "drupal-module",
   "license": "GPL-2.0-or-later",
